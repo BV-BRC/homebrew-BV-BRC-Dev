@@ -985,7 +985,7 @@ class BvBrcCli < Formula
         end
       end
     end
-
+  end
 
   test do
     # `test do` will create, run in and delete a temporary directory.
