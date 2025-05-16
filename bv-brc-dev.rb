@@ -1,4 +1,4 @@
-class BvBrcCli < Formula
+class BvBrcDev < Formula
   desc "BV-BRC Command-line Interface"
   homepage "https://www.bv-brc.org/"
   license "MIT"
